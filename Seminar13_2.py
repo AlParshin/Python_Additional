@@ -7,6 +7,8 @@ class IncorrectName(ValueError):
 
 
 class CheckNameDescriptor:
+    Z
+
     def __init__(self):
         self.__fio = 0
 
